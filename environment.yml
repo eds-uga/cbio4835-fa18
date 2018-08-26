@@ -1,9 +1,11 @@
 channels:
  - defaults
  - conda-forge
+ - alubbock
 dependencies:
  - matplotlib
  - numpy
  - scipy
  - scikit-learn
  - pandas
+ - pysb
