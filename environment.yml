@@ -4,6 +4,7 @@ channels:
  - alubbock
 dependencies:
  - biopython
+ - imageio
  - matplotlib
  - numpy
  - scipy
